@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kontak Ku</string>
+    <string name="search_hint">Ketik Nama atau Nomor…</string>
+    <string name="view_data">Lihat Data</string>
+    <string name="view_number">Lihat Nomor</string>
+    <string name="nama">Nama</string>
+    <string name="telpon">Nomor Telpon</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Daftar</string>
+    <string name="create_new">Buat Baru</string>
+    <string name="tampil_pass">Tampilkan Password</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="forgot">Lupa Password</string>
+    <string name="tryRemember">Coba diingat lagi</string>
+    <string name="remember">Remember Me</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="loginSuccess">Login Sukses</string>
+    <string name="Success">Sukses</string>
+    <string name="loginInvalidEmail">Email Salah</string>
+    <string name="loginInvalidPass">Password Salah</string>
+    <string name="loginInvalidCreds">Email dan Password Salah</string>
+    <string name="loginEmptyEmail">Email tidak boleh kosong</string>
+    <string name="loginEmptyPass">Password tidak boleh kosong</string>
+    <string name="copyright">Dibuat oleh Muhammad Fahmi Rasyid \n 20190140106</string>
+</resources>
